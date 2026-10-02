@@ -1,5 +1,8 @@
 # Job Board API
 
+## Live API
+**Base URL:** `https://job-board-api-production-d2d9.up.railway.app/api/v1`
+
 A production-ready REST API for a job board platform built with Node.js, Express, and MongoDB. Supports three roles — admin, company, and jobseeker — with full job posting, application, and approval workflows.
 
 ## Features
